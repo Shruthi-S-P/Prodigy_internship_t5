@@ -1,4 +1,4 @@
 # Prodigy_internship_t5
-Recognition of food items 
+Recognition of food items and estimating their calorie content
 
-dataset link - https://www.kaggle.com/datasets/dansbecker/food-101
+
